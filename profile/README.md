@@ -137,8 +137,6 @@ Query millions of ocean observations using **natural language**
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-TRY_NOW-7c3aed?style=for-the-badge&labelColor=5b21b6)](https://web-production-a98d8.up.railway.app)
-&nbsp;
 [![Source](https://img.shields.io/badge/📂_SOURCE-VIEW-a855f7?style=for-the-badge&labelColor=7c3aed)](https://github.com/Anbu-Navin-Devs/ARGOFLOAT-CHART)
 
 </div>
